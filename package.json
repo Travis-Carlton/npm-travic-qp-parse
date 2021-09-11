@@ -1,7 +1,7 @@
 {
 	"name": "@travic/parse-qp",
-	"version": "1.0.9",
-	"description": "",
+	"version": "1.0.10",
+	"description": "Parse Query Params",
 	"main": "lib/src",
 	"types": "lib/src",
 	"scripts": {
@@ -11,6 +11,7 @@
 	},
 	"keywords": [
 		"parseQP",
+		"parse query params",
 		"query string parser",
 		"query params parser"
 	],

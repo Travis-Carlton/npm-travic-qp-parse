@@ -1,4 +1,4 @@
-# parseQP
+# Parse Query Params
 
 ```ruby
 npm i @travic/parse-qp
