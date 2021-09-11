@@ -1,6 +1,6 @@
 {
 	"name": "@travic/parse-qp",
-	"version": "1.0.10",
+	"version": "1.0.11",
 	"description": "Parse Query Params",
 	"main": "lib/src",
 	"types": "lib/src",
